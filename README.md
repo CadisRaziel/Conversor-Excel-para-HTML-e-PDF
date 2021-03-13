@@ -10,3 +10,6 @@ Feito em Node.JS, JavaScript e Ejs
 bibliotecas: 
 npm i ejs --save,
 npm i html-pdf --save
+
+
+Modelo das classes: composição (motivo: para não ficar classes grandes)
