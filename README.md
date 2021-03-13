@@ -7,6 +7,6 @@ Conversor simples de Excel para HTML e PDF
 Projeto simples porém otimo para caso algum cliente precise que tabelas sejam geradas em html e pdf
 Feito em Node.JS, JavaScript
 
-bibliotecas 
-npm i ejs --save
+bibliotecas: 
+npm i ejs --save,
 npm i html-pdf --save
