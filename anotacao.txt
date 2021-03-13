@@ -1,0 +1,3 @@
+bibliotecas usadas 
+npm i ejs --save
+npm i html-pdf --save
